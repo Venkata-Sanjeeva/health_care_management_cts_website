@@ -1,0 +1,57 @@
+{
+    "Gynacologist": [
+        "Dr. Alice Chen",
+        "Dr. Emily Roberts",
+        "Dr. Sarah Miller"
+    ],
+    "Pulmonologist": [
+        "Dr. Michael Davis",
+        "Dr. Benjamin Carter",
+        "Dr. David Wilson"
+    ],
+    "Dermatologist": [
+        "Dr. Olivia Brown",
+        "Dr. Jessica White",
+        "Dr. Kevin Lee"
+    ],
+    "Neurologist": [
+        "Dr. Robert Johnson",
+        "Dr. Laura King",
+        "Dr. Peter Evans"
+    ],
+    "Gastroenterologist": [
+        "Dr. Christopher Garcia",
+        "Dr. Nancy Hall",
+        "Dr. Samuel Wright"
+    ],
+    "Endocrinologist": [
+        "Dr. Lisa Baker",
+        "Dr. Andrew Green",
+        "Dr. Jennifer Adams"
+    ],
+    "Nephrologist": [
+        "Dr. Thomas Harris",
+        "Dr. Susan Clark",
+        "Dr. Paul Turner"
+    ],
+    "Oncologist": [
+        "Dr. William Moore",
+        "Dr. Diana Lewis",
+        "Dr. James Hill"
+    ],
+    "Anesthesiologist": [
+        "Dr. Karen Allen",
+        "Dr. Mark Young",
+        "Dr. Michelle Scott"
+    ],
+    "Psychiatrist": [
+        "Dr. Ryan Nelson",
+        "Dr. Heather Perez",
+        "Dr. George Cook"
+    ],
+    "Pediatrician": [
+        "Dr. Daniel Ward",
+        "Dr. Brenda Bell",
+        "Dr. Charles Flores"
+    ]
+}
